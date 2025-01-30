@@ -32,5 +32,24 @@ A digital Elevation Model is again used to remove the topographic phase from the
 The phase differences are still scaled between within the scale of 2\pi. By unwrapping the image, the relative height and displacement between two images can be obtained.
 
 
+![Baseline Pairs](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/Baseline%20Pairs.png)
+![Estimated Scene Location Big](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/Estimated%20Scene%20Location%20Big.png)
+![Estimated Scene Location](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/Estimated%20Scene%20Location.png)
+![PS Correlations](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/PS%20Correlations.png)
+![PS Interferograms](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/PS%20Interferograms.png)
+![PS LOS Displacement POI](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/PS%20LOS%20Displacement%20POI.png)
+![PS LOS Velocity AOI](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/PS%20LOS%20Velocity%20AOI.png)
+![Persistent Scatterers](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/Persistent%20Scatterers.png)
+![SBAS Correlations](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/SBAS%20Correlations.png)
+![SBAS Cumulative LOS Displacement](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/SBAS%20Cumulative%20LOS%20Displacement.png)
+![SBAS Interferograms](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/SBAS%20Interferograms.png)
+![SBAS LOS Displacement POI](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/SBAS%20LOS%20Displacement%20POI.png)
+![SBAS LOS Velocity AOI](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/SBAS%20LOS%20Velocity%20AOI.png)
+![SBAS Phase Trend](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/SBAS%20Pahse%20Trend.png)
+![SBAS Unwrap](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/SBAS%20Unwrap.png)
+![Topography Amsterdam](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/Topography%20Amsterdam.png)
+![Heatmap with Velocity Labels](https://raw.githubusercontent.com/daniel-5151/dsp-group-a2/main/heatmap_with_velocity_labels_smaller10kra.png)
+
+
 
 
