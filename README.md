@@ -1,5 +1,10 @@
 # DSP Project Group A2
 
+## Links
+Check out our Demo video here: https://youtu.be/qQViNi1RMDY
+
+Check out our Teaser video here: https://youtu.be/4Gb_M1Eiyg8
+
 ## Pipeline Explanation
 
 **TOPSAR Split**:
