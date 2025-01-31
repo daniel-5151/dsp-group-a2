@@ -5,6 +5,8 @@ Check out our Demo video here: https://youtu.be/qQViNi1RMDY
 
 Check out our Teaser video here: https://youtu.be/4Gb_M1Eiyg8
 
+Check our interactive map here: [View the Interactive Map](https://daniel-5151.github.io/dsp-group-a2/)
+
 ## Pipeline Explanation
 
 **TOPSAR Split**:
